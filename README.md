@@ -201,3 +201,18 @@ The Universal Data Transformer concept can be extended and enhanced in several w
 
 
 Universal Data Transformer represents a novel approach to data manipulation, leveraging the power of reverse regex to enable surgical data transformations. This concept offers granular control, versatility, and efficiency, making it an ideal solution for developers, data engineers, and AI systems. By focusing on precision and automation, Universal Data Transformer redefines how data transformations are performed, setting a new standard for data editing tools.
+
+### License
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <https://www.gnu.org/licenses/>.
