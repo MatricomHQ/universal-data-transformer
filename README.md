@@ -187,7 +187,7 @@ building tools that require AI-driven data transformations.
 I have found this "reverse" technique to be the most efficient and accurate means of targeting data from an AI. 
 AI is inherently good at generating Regex to match its targets, and given a full document, it is extremely accurate to pinpoint specific targets without issues such as duplicate selection.
 
-The resulting tool is in this repository called "FileMod", which is the proof-of-concept version. This technique has pushed me over the biggest hurdle I've had with developing my "Commando tool.
+The resulting tool is in this repository called "FileMod", which is the proof-of-concept version. This technique has pushed me over the biggest hurdle I've had with developing my "Commando" general AI-agent tool.
 
 #### Future Directions
 
